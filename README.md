@@ -64,7 +64,7 @@ Gosto de aprender coisas novas, criar projetos e compartilhar o que descubro no 
 
 ### 🐍 Minhas contribuições
 <div align="center">
-  <img src="https://github.com/Alegria-LTDA/Alegria-LTDA/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Alegria-LTDA/Alegria-LTDA/blob/main/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 *(Se não aparecer, veja as instruções abaixo para ativar a animação)*
