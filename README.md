@@ -53,15 +53,6 @@ Gosto de aprender coisas novas, criar projetos e compartilhar o que descubro no 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alegria-LTDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alegria-LTDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
----
-
 ### 🐍 Minhas contribuições
 <div align="center">
   <img src="https://github.com/Alegria-LTDA/Alegria-LTDA/blob/main/github-contribution-grid-snake.svg" alt="snake animation"/>
